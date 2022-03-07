@@ -1,4 +1,11 @@
-### Hi there 👋
+### It's a me
+
+- 🔭 I’m currently working on whatever I feel like, probably something flash related
+- 🌱 I’m currently learning something, probably
+- 💬 Ask me about GoAnimate if you want an unhinged ramble about the client's code
+- 📫 How to reach me: Discord! It'sJay#4537
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I played a huge part in GoAnimate's archival. You probably know that if you are here tho,
 
 <!--
 **PoleyMagik/PoleyMagik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
