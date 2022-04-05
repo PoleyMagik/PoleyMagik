@@ -1,23 +1,8 @@
 ### It's a me
 
-- 🔭 I’m currently working on whatever I feel like, probably something flash related
-- 🌱 I’m currently learning something, probably
-- 💬 Ask me about GoAnimate if you want an unhinged ramble about the client's code
+- 🔭 I’m currently working on whatever I feel like, probably something flash or maybe even FNF related
+- 🌱 I’m currently learning anything and everything
+- 💬 Ask me about GoAnimate if you want me to remove your ribcage
 - 📫 How to reach me: Discord! It'sJay#4537
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I played a huge part in GoAnimate's archival. You probably know that if you are here tho,
-
-<!--
-**PoleyMagik/PoleyMagik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I'm an ametuer musician an artist in addition to being a programmer. I've been described as a "One-man Dev Team" once.
