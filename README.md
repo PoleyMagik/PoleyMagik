@@ -1,8 +1,8 @@
 ### It's a me
 
-- 🔭 I’m currently working on whatever I feel like, probably something flash or maybe even FNF related
-- 🌱 I’m currently learning anything and everything
+- 🔭 I’m currently working on a server emulator for GoAnimate called Wrapper 2 (working title)
+- 🌱 I’m currently learning 
 - 💬 Ask me about GoAnimate if you want me to remove your ribcage
 - 📫 How to reach me: Discord! It'sJay#4537
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I'm an ametuer musician and artist in addition to being a programmer. I've been described as a "One-man Dev Team" once.
+- ⚡ Fun fact: If you don't support trans rights, you will die
