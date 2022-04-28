@@ -5,4 +5,4 @@
 - 💬 Ask me about GoAnimate if you want me to remove your ribcage
 - 📫 How to reach me: Discord! It'sJay#4537
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I'm an ametuer musician an artist in addition to being a programmer. I've been described as a "One-man Dev Team" once.
+- ⚡ Fun fact: I'm an ametuer musician and artist in addition to being a programmer. I've been described as a "One-man Dev Team" once.
